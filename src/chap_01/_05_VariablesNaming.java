@@ -34,6 +34,9 @@ public class _05_VariablesNaming {
         String s = "";
         String str = "";
 
+        //절대 변하지 않는 상수는 대문자로
+        final String CODE = "KR";
+
 
     }
 }
